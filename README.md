@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br><br>🔭 I’m currently working on Full-Stack Development projects using .NET, Nest JS, and modern backend architectures.<br>🤝 I’m looking to collaborate on scalable web apps, mobile apps, and real-world problem-solving projects.<br>🫶 I’m looking for help with system design, cloud deployment, and advanced software architecture.<br>🌱 I’m currently learning  system scalability, distributed systems, and modern backend practices.<br>💬 Ask me about .NET MVC, APIs, databases, software project management, and backend development.<br>⚡ Fun fact: I enjoy turning real-life problems into software solutions , especially smart systems like IoT-based projects.<br><br>
+#  About Me:
+<br><br> I’m currently working on Full-Stack Development projects using .NET, Nest JS, and modern backend architectures.<br> I’m looking to collaborate on scalable web apps, mobile apps, and real-world problem-solving projects.<br> I’m looking for help with system design, cloud deployment, and advanced software architecture.<br> I’m currently learning  system scalability, distributed systems, and modern backend practices.<br> Ask me about .NET MVC, APIs, databases, software project management, and backend development.<br> Fun fact: I enjoy turning real-life problems into software solutions , especially smart systems like IoT-based projects.<br><br>
 
 
 ## 🌐 Socials:
